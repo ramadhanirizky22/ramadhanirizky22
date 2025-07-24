@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizky</h1>
 <h3 align="center">Hello, my name is Ramadhani Rizky Syahputra, an Informatics Engineering student with a strong enthusiasm for the digital world. I am passionate about automation testing, and backend engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikivos&label=Profile%20views&color=0e75b6&style=flat" alt="rikivos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikivos" alt="rikivos" /></a> </p>
-
 - 🌱 I’m currently learning **Express Js and Laravel**
 
 - 📫 How to reach me **r.rizky.sy@gmail.com**
