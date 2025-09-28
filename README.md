@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadhanirizky22&show_icons=true&locale=en" alt="ramadhanirizky22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikivos&" alt="rikivos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramadhanirizky22" alt="ramadhanirizky22" /></p>
 
